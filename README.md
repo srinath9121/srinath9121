@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm Srinath</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20&height=220&section=header&text=Srinath%20Swamy&fontSize=42&fontAlignY=38&desc=Data%20Science%20Undergrad%20%E2%80%A2%20Multimodal%20ML%20%E2%80%A2%20Systems%20Builder&descSize=18&descAlignY=62&fontColor=ffffff&descColor=A5D6FF" alt="Cyberpunk Banner" width="100%" />
+</div>
 
 <p align="center">
   Data science undergrad. I build data-intensive systems end to end, from data pipelines to deploy,<br />
