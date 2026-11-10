@@ -29,7 +29,18 @@
   <img alt="Pacman eating my contribution graph" src="https://raw.githubusercontent.com/srinath9121/srinath9121/pacmangraph/pacman-contribution-graph.svg">
 </picture>
 
+```python
+# notebook.ipynb
+In [1]: import srinath
 
+In [2]: srinath.get_profile()
+Out[2]: {
+    "role": "Data Science Undergrad",
+    "focus": ["Macroeconomic Intelligence", "Multimodal Deep Learning", "Full-Stack Systems"],
+    "building": ["Indian Macro Terminal", "Solar PV Ramp Forecasting"],
+    "status": "Open to full-time roles & internships"
+}
+```
 
 ## Building now
 
