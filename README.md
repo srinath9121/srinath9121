@@ -29,7 +29,7 @@
   <img alt="Pacman eating my contribution graph" src="https://raw.githubusercontent.com/srinath9121/srinath9121/pacmangraph/pacman-contribution-graph.svg">
 </picture>
 
-Open to full-time roles / internships.
+
 
 ## Building now
 
