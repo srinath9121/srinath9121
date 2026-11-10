@@ -17,6 +17,10 @@
   <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=srinath9121.visitor-badge&left_text=visitors" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&width=560&height=35&lines=import+torch%2C+numpy+as+np;model+%3D+MultimodalModel().to('cuda');Analyzing+macroeconomic+signals...+loss%3A+0.0124;Forecasting+solar+PV+ramps+with+ResNet+%2B+LSTM;Connecting+the+dots+between+data+and+markets..." alt="ML Terminal Typing" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srinath9121/srinath9121/pacmangraph/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srinath9121/srinath9121/pacmangraph/pacman-contribution-graph.svg">
