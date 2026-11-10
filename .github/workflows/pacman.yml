@@ -1,0 +1,33 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    # Run once a day at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman contribution graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            pacman-contribution-graph.svg
+            pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: Push SVG files to pacmangraph branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacmangraph
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

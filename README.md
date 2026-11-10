@@ -1,58 +1,39 @@
-# Hi there, I'm M. Srinathswamy 👋
-
-🎓 **Data Science Undergrad** | 🚀 **Full-Stack & Macro Intelligence Builder**  
-💼 **Open to Full-Time Roles & Internships**
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://srinath-portfolio-five.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/srinath-swamy-b41a9b267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/swamy_srin65891" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://substack.com/@srinathswamy" target="_blank">
-    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
-  </a>
-  <a href="https://www.instagram.com/srinathhh_____/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
-
-### 🚀 Featured Project
-
-#### 📊 [Indian Macro Terminal](https://india-macro-terminal.onrender.com/) • [Live Demo](https://india-macro-terminal.onrender.com/)
-
-An institutional-style macro intelligence and market surveillance platform that connects Indian financial markets, global macroeconomic indicators, geopolitical events, and economic data to explain and quantify their potential impact on India's economy and capital markets.
-
-- **Frontend & Data Viz:** React 18, Vite, JavaScript, Zustand, Recharts, Three.js, Framer Motion
-- **Backend & Real-Time:** Python (FastAPI), SQLite, WebSockets
-- **Intelligence & Analytics:** ML-based anomaly detection & macroeconomic risk analytics
-- **DevOps & Infrastructure:** Docker, Render
-
----
-
-### 🛠️ Tech Stack & Skills
+<h1 align="center">Hey, I'm Srinath</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,js,sqlite,docker,git,github" />
-  </a>
+  Data science undergrad. I build data-intensive systems end to end, from data pipelines to deploy,<br />
+  and I care about connecting macroeconomic indicators, deep learning, and intuitive interfaces.
 </p>
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinath9121&show_icons=true&theme=radical" alt="Srinath's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinath9121&layout=compact&theme=radical" alt="Top Langs" height="165" />
+  <a href="https://srinath-portfolio-five.vercel.app">srinath-portfolio-five.vercel.app</a> •
+  <a href="https://x.com/swamy_srin65891">X</a> •
+  <a href="https://www.linkedin.com/in/srinath-swamy-b41a9b267/">LinkedIn</a> •
+  <a href="https://substack.com/@srinathswamy">Substack</a> •
+  <a href="https://www.instagram.com/srinathhh_____/">Instagram</a>
 </p>
+
+<p align="center">
+  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=srinath9121.visitor-badge&left_text=visitors" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srinath9121/srinath9121/pacmangraph/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srinath9121/srinath9121/pacmangraph/pacman-contribution-graph.svg">
+  <img alt="Pacman eating my contribution graph" src="https://raw.githubusercontent.com/srinath9121/srinath9121/pacmangraph/pacman-contribution-graph.svg">
+</picture>
+
+Open to full-time roles / internships.
+
+## Building now
+
+| Project | What it is |
+| --- | --- |
+| [**Indian Macro Terminal**](https://github.com/srinath9121/indian-macro-terminal) · [site](https://india-macro-terminal.onrender.com/) | An institutional-style macro intelligence and market surveillance platform connecting Indian financial markets, global macroeconomic indicators, geopolitical events, and economic data with ML anomaly detection. Built with FastAPI, React 18, Vite, WebSockets, Three.js, Recharts, and Docker on Render. |
+| [**Solar PV Ramp Detection**](https://huggingface.co/spaces/srinath44/solar-ramp-unseen1) · [site](https://huggingface.co/spaces/srinath44/solar-ramp-unseen1) | A multimodal deep-learning system predicting sharp drops in solar generation up to 10 minutes ahead by combining sky-camera imagery with historical power data. Built with PyTorch, ResNet-18, LSTM, Gradio, and Hugging Face. |
+
+## Stack
+
+[![My stack](https://skillicons.dev/icons?i=git,docker,c,nextjs,py)](https://srinath-portfolio-five.vercel.app)
+
+Python and PyTorch for multimodal ML and data pipelines, C for low-level systems, React and Next.js on the front, containerized with Docker and version-controlled with Git.
