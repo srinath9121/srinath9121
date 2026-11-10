@@ -22,9 +22,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srinath9121/srinath9121/pacmangraph/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srinath9121/srinath9121/pacmangraph/pacman-contribution-graph.svg">
-  <img alt="Pacman eating my contribution graph" src="https://raw.githubusercontent.com/srinath9121/srinath9121/pacmangraph/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg">
+  <img alt="3D Contribution Graph" src="profile-3d-contrib/profile-night-rainbow.svg">
 </picture>
 
 Open to full-time roles / internships.
